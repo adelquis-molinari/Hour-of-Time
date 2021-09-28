@@ -13,8 +13,7 @@ export default function About(){
                     <h2>Molinari Adelquis</h2>
                     <h5 className='text-secondary'>Developer Full Stack (soon)</h5>
                     <hr width='50%' />
-                    <p className='px-5'>Soy un desarrollador independiente que se encuentra en formación en el curso de <strong> Evuca.</strong><br/> Mi principal motivacion en encontrar nuevos desafios donde pueda aportar mi miguaja de codigo y aprender de mis colegas.
-                    </p>
+                    <p className='px-5'>Soy un desarrollador independiente que se encuentra en formación en el curso de <strong> Evuca.</strong><br/>Mi principal motivación en encontrar nuevos desafíos donde pueda aportar mi migaja de código y aprender de mis colegas.</p>
                     <div className="progressMe">
                         <h5>HTML</h5>
                         <div className="progress">
