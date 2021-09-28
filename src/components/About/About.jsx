@@ -11,7 +11,7 @@ export default function About(){
                 </div>
                 <div className="col-lg-9 pt-5 px-lg-5 bodyMe sombra">
                     <h2>Molinari Adelquis</h2>
-                    <h5 className='text-secondary'>Developer Full Stack (in back)</h5>
+                    <h5 className='text-secondary'>Developer Full Stack (soon)</h5>
                     <hr width='50%' />
                     <p className='px-5'>Soy un desarrollador independiente que se encuentra en formación en el curso de <strong> Evuca.</strong><br/> Mi principal motivacion en encontrar nuevos desafios donde pueda aportar mi miguaja de codigo y aprender de mis colegas.
                     </p>
