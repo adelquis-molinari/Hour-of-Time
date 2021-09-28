@@ -1,0 +1,21 @@
+#logo {
+  margin-right: 20px;
+}
+.bg-nav{
+  margin-bottom: 3.75rem;
+  background-image: linear-gradient(to left, #60ff2148 0%, #21d4fd 100%);
+  box-shadow: -5px 10px 40px -3px rgba(0,0,0,0.6);
+  -webkit-box-shadow: -5px 10px 40px -3px rgba(0,0,0,0.6);
+  -moz-box-shadow: -5px 10px 40px -3px rgba(0,0,0,0.6);
+}
+@media (max-width: 576px) {
+  .form-input-search{
+    width: 270px;
+    margin-right: 15px;
+  }
+  .btn-about-me{
+    margin-right: 15px;
+    width: 82px;
+  }
+  
+}
